@@ -1,6 +1,6 @@
-[ ] Delach 200 - middle of head pain, mirror shadows, sleep..
-[ ] Lobell 200 - activeness n cheerful feeling in work,office task lazy improve, cooling feeling on forehead, thoughts privacy
-[X] Hearing merge in meeting - 4jan25 top3 meds reduce.
+- [ ] Delach 200 - middle of head pain, mirror shadows, sleep..
+- [ ] Lobell 200 - activeness n cheerful feeling in work,office task lazy improve, cooling feeling on forehead, thoughts privacy
+- [X] Hearing merge in meeting - 4jan25 top3 meds reduce.
 [X] Sleep identity merge
 [X] Sabko pata chal raha hai - thought or my secrets known to others...
 [X] Thinking getting blocked - usecase try keeping phn numbers in mind and write somewhere else - kosyph 30 or 4jan25 1,2,3 meds situation covered(meds changed covering it)
